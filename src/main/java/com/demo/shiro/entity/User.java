@@ -19,7 +19,7 @@ public class User {
     private String password;
 
     private String salt; //加密密码的盐
-s
+
     private Integer tate;
 
 
